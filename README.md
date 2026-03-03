@@ -2,7 +2,7 @@
 
 <h1 style="margin-bottom:0;">Abhishek Sharma</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Frontend+Engineer;React.js+Specialist;Enterprise+Dashboard+Developer;Digital+Transformation+Builder" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Frontend+Engineer;React.js+Specialist;Enterprise+Dashboard+Architect;Digital+Transformation+Builder" />
 
 <br/>
 
@@ -23,17 +23,19 @@
 
 <br/>
 
-<h2 align="center">⚡ Engineering Impact</h2>
+<hr/>
+
+<h2 align="center">⚡ Engineering Impact Overview</h2>
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center"><h2>25%</h2><b>Paperwork Reduced</b><br/>BIADA Phase 1</td>
-<td align="center"><h2>75%</h2><b>Target Digitization</b><br/>Phase 2</td>
-<td align="center"><h2>40%</h2><b>Frontend Performance Boost</b></td>
-<td align="center"><h2>60%</h2><b>Deployment Acceleration</b></td>
-<td align="center"><h2>1K+</h2><b>Active Users Served</b></td>
+<td align="center"><h2>25%</h2><b>Paperwork Eliminated</b></td>
+<td align="center"><h2>75%</h2><b>Digitization Target</b></td>
+<td align="center"><h2>40%</h2><b>Frontend Performance Gain</b></td>
+<td align="center"><h2>60%</h2><b>Faster Deployments</b></td>
+<td align="center"><h2>1K+</h2><b>Users Served</b></td>
 </tr>
 </table>
 
@@ -41,21 +43,19 @@
 
 <hr/>
 
-<h2 align="center">🛠 Core Technology Stack</h2>
+<h2 align="center">🛠 Technology Stack</h2>
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=java,nodejs,express,mysql" />
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
 </div>
 
 <hr/>
 
-<h2 align="center">📊 Development Dashboard</h2>
+<h2 align="center">📈 Development Dashboard</h2>
 
 <div align="center">
 
@@ -70,49 +70,66 @@
 
 <hr/>
 
-<h2>🏭 BIADA Digital Transformation Platform</h2>
+<h2>🏭 BIADA Digital Survey Ecosystem</h2>
 
 <p>
-Architected and developed a full-scale <b>Digital Survey Ecosystem</b> for Bihar Industrial Area Development Authority (BIADA) to replace traditional paper-based industrial surveys.
+The Bihar Industrial Area Development Authority relied heavily on physical survey forms to monitor industrial zones. 
+Data collection, aggregation, and reporting were manual, slow, and operationally inefficient. Administrative decisions depended on delayed documentation cycles.
 </p>
 
 <p>
-The platform includes dynamic survey modules, structured real-time API integration, interactive analytics dashboards (Recharts), role-based access control, and automated Excel reporting.
+To solve this, I designed and developed a fully digital survey ecosystem — a structured, scalable web platform that replaces paper workflows with real-time, API-driven execution.
 </p>
 
-<b>Business Outcomes:</b>
+<p>
+The system dynamically renders survey modules, validates structured inputs, integrates directly with backend services, and feeds data into interactive analytics dashboards built using modern JavaScript libraries.
+</p>
 
-<ul>
-<li>Reduced manual paperwork by <b>25% in Phase 1</b></li>
-<li>Phase 2 rollout targeting <b>75% complete operational digitization</b></li>
-<li>Improved administrative visibility and reporting speed</li>
-<li>Established scalable digital governance infrastructure</li>
-</ul>
+<p>
+Administrators can now monitor industrial performance through visual dashboards instead of manual registers. Reports are generated automatically through structured Excel exports.
+</p>
 
-<hr/>
-
-<h2>📊 Dashboard Engineering</h2>
-
-<ul>
-<li>Designed performance-optimized analytics dashboards</li>
-<li>Built structured data visualization systems</li>
-<li>Implemented real-time reporting pipelines</li>
-<li>Optimized React component architecture for large datasets</li>
-</ul>
+<p>
+Phase 1 of deployment successfully reduced physical paperwork by <b>25%</b>. 
+The upcoming Phase 2 rollout is engineered to eliminate up to <b>75% of manual processes</b>, establishing a scalable digital governance foundation.
+</p>
 
 <hr/>
 
-<h2>💍 Freelance Engineering Experience</h2>
+<h2>📊 Enterprise Dashboard Architecture</h2>
 
-<ul>
-<li>Developed secure backend APIs using <b>Java</b></li>
-<li>Integrated APIs into scalable frontend dashboards</li>
-<li>Built administrative monitoring panels</li>
-<li>Delivered production-ready responsive applications</li>
-</ul>
+<p>
+Beyond survey execution, I engineered interactive dashboard systems that translate raw operational data into actionable intelligence.
+</p>
+
+<p>
+These dashboards are optimized for performance, capable of handling large datasets while maintaining responsive rendering. 
+Comparative analytics, data segmentation, and real-time visibility allow decision-makers to operate with clarity and speed.
+</p>
+
+<p>
+The architecture prioritizes modular React component design, reusable UI patterns, and API lifecycle management.
+</p>
+
+<hr/>
+
+<h2>💍 Freelance Engineering — Wedding Management Platforms</h2>
+
+<p>
+In addition to enterprise work, I independently delivered multiple production-grade wedding management platforms.
+</p>
+
+<p>
+I developed secure REST APIs using Java to handle event management, guest tracking, scheduling systems, and administrative workflows. 
+These services were integrated into responsive frontend dashboards, ensuring seamless interaction between backend logic and user interfaces.
+</p>
+
+<p>
+Each platform was designed with structured architecture, maintainable code patterns, and performance considerations to ensure long-term usability.
+</p>
 
 <hr/>
 
 <div align="center">
-<b>Transforming operational complexity into scalable, high-performance digital systems.</b>
+<b>Focused on building scalable systems that convert operational friction into measurable digital transformation.</b>
 </div>
