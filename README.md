@@ -6,6 +6,12 @@
 
 <br/>
 
+📍 Ghaziabad, India &nbsp; | &nbsp;
+📧 <a href="mailto:shabhishek411@gmail.com">shabhishek411@gmail.com</a> &nbsp; | &nbsp;
+💼 Software Developer @ Pareekshn
+
+<br/><br/>
+
 <a href="https://portfolio-ten-ashen-10.vercel.app/">
 <img src="https://img.shields.io/badge/🌐%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
@@ -18,7 +24,7 @@
 
 <br/>
 
-<!-- ================= NAVIGATION BAR ================= -->
+<!-- ================= NAVIGATION ================= -->
 
 <div align="center">
 
@@ -27,14 +33,11 @@
 <a href="#impact">Impact</a> •
 <a href="#projects">Projects</a> •
 <a href="#dashboard">GitHub Dashboard</a> •
-<a href="#skills">Tech Stack</a> •
-<a href="#contact">Contact</a>
+<a href="#skills">Tech Stack</a>
 
 </div>
 
 <hr/>
-
-<!-- ================= IMPACT ================= -->
 
 <h2 id="impact" align="center">⚡ Engineering Impact</h2>
 
@@ -54,8 +57,6 @@
 
 <hr/>
 
-<!-- ================= PROJECTS ================= -->
-
 <h2 id="projects" align="center">🏭 Featured Projects</h2>
 
 <h3>BIADA Digital Survey Ecosystem</h3>
@@ -65,11 +66,11 @@ Architected and developed a full-scale digital survey platform for Bihar Industr
 </p>
 
 <p>
-The system includes dynamic survey modules, real-time REST API integration, structured reporting pipelines, and interactive dashboards built using modern JavaScript libraries.
+The system integrates dynamic survey modules, real-time REST APIs, structured reporting pipelines, and interactive dashboards using modern JavaScript libraries.
 </p>
 
 <p>
-Phase 1 reduced paperwork by 25%. Phase 2 is engineered to eliminate up to 75% of manual processes, enabling structured digital governance.
+Phase 1 reduced paperwork by 25%. Phase 2 is engineered to eliminate up to 75% of manual processes, enabling scalable digital governance.
 </p>
 
 <br/>
@@ -77,7 +78,7 @@ Phase 1 reduced paperwork by 25%. Phase 2 is engineered to eliminate up to 75% o
 <h3>Enterprise Analytics Dashboard Systems</h3>
 
 <p>
-Designed high-performance interactive dashboards optimized for large datasets. Implemented modular React architecture and reusable visualization components for scalable analytics delivery.
+Designed performance-optimized React dashboards capable of handling large datasets while maintaining real-time visibility and administrative clarity.
 </p>
 
 <br/>
@@ -85,12 +86,10 @@ Designed high-performance interactive dashboards optimized for large datasets. I
 <h3>Wedding Management Platforms (Freelance)</h3>
 
 <p>
-Independently developed secure REST APIs using Java and integrated them into responsive frontend dashboards. Delivered structured admin panels and production-ready event management systems.
+Developed secure Java-based REST APIs and integrated them into responsive frontend dashboards, delivering structured and production-ready management systems.
 </p>
 
 <hr/>
-
-<!-- ================= GITHUB DASHBOARD ================= -->
 
 <h2 id="dashboard" align="center">📊 Development Dashboard</h2>
 
@@ -107,8 +106,6 @@ Independently developed secure REST APIs using Java and integrated them into res
 
 <hr/>
 
-<!-- ================= SKILLS ================= -->
-
 <h2 id="skills" align="center">🛠 Core Technology Stack</h2>
 
 <div align="center">
@@ -118,19 +115,6 @@ Independently developed secure REST APIs using Java and integrated them into res
 <img src="https://skillicons.dev/icons?i=java,nodejs,express,mysql" />
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</div>
-
-<hr/>
-
-<!-- ================= CONTACT ================= -->
-
-<h2 id="contact" align="center">📬 Contact</h2>
-
-<div align="center">
-
-📍 Ghaziabad, India  
-📧 shabhishek411@gmail.com  
 
 </div>
 
