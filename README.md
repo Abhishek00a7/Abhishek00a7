@@ -6,7 +6,7 @@
 
 <br/>
 
-📍 Ghaziabad, India &nbsp; | &nbsp;
+📍 Noida, India &nbsp; | &nbsp;
 📧 <a href="mailto:shabhishek411@gmail.com">shabhishek411@gmail.com</a> &nbsp; | &nbsp;
 💼 Software Developer @ Pareekshn
 
