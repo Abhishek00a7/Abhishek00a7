@@ -1,47 +1,39 @@
 <div align="center">
 
-<h1>Abhishek Sharma</h1>
-<h3>Frontend Engineer • React.js Specialist • Enterprise Dashboard Architect</h3>
+<h1 style="margin-bottom:0;">Abhishek Sharma</h1>
 
-<p>
-Building scalable digital platforms that eliminate manual workflows and improve operational visibility.
-</p>
-
-<p>
-📍 Ghaziabad, India &nbsp; | &nbsp;
-📧 shabhishek411@gmail.com &nbsp; | &nbsp;
-💼 Software Developer @ Pareekshn
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Frontend+Engineer;React.js+Specialist;Enterprise+Dashboard+Developer;Digital+Transformation+Builder" />
 
 <br/>
 
-<!-- ====== CTA BUTTONS ====== -->
+<p>
+📍 Ghaziabad, India &nbsp; | &nbsp;
+💼 Software Developer @ Pareekshn
+</p>
 
 <a href="https://portfolio-ten-ashen-10.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐%20View%20Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/🌐%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/abbysharma2002/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
 
 <br/>
 
-<!-- ================= KPI IMPACT SECTION ================= -->
-
-<h2 align="center">📊 Engineering Impact Snapshot</h2>
+<h2 align="center">⚡ Engineering Impact</h2>
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center"><b>25%</b><br/>Paperwork Reduced<br/>(BIADA Phase 1)</td>
-<td align="center"><b>75%</b><br/>Target Digital Transformation<br/>(Phase 2)</td>
-<td align="center"><b>40%</b><br/>Frontend Performance Boost</td>
-<td align="center"><b>60%</b><br/>Faster Deployment Cycle</td>
-<td align="center"><b>1K+</b><br/>Active Users Served</td>
+<td align="center"><h2>25%</h2><b>Paperwork Reduced</b><br/>BIADA Phase 1</td>
+<td align="center"><h2>75%</h2><b>Target Digitization</b><br/>Phase 2</td>
+<td align="center"><h2>40%</h2><b>Frontend Performance Boost</b></td>
+<td align="center"><h2>60%</h2><b>Deployment Acceleration</b></td>
+<td align="center"><h2>1K+</h2><b>Active Users Served</b></td>
 </tr>
 </table>
 
@@ -63,68 +55,64 @@ Building scalable digital platforms that eliminate manual workflows and improve 
 
 <hr/>
 
-<h2 align="center">📈 Development Dashboard</h2>
+<h2 align="center">📊 Development Dashboard</h2>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhishek00a7&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek00a7&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek00a7&theme=tokyo-night&hide_border=true" />
 
 </div>
 
 <hr/>
 
-<h2>Professional Overview</h2>
+<h2>🏭 BIADA Digital Transformation Platform</h2>
 
 <p>
-Frontend Engineer specializing in React.js and API-driven architecture. I design scalable UI systems and enterprise dashboards that transform paper-based workflows into structured digital ecosystems.
+Architected and developed a full-scale <b>Digital Survey Ecosystem</b> for Bihar Industrial Area Development Authority (BIADA) to replace traditional paper-based industrial surveys.
 </p>
 
 <p>
-My work focuses on performance optimization, modular frontend architecture, and real-time data visualization systems for operational intelligence.
+The platform includes dynamic survey modules, structured real-time API integration, interactive analytics dashboards (Recharts), role-based access control, and automated Excel reporting.
 </p>
 
-<hr/>
-
-<h2>🏭 Enterprise Transformation — BIADA Digital Survey Platform</h2>
-
-<p>
-Led the frontend architecture and development of a digital survey ecosystem for Bihar Industrial Area Development Authority (BIADA).
-</p>
+<b>Business Outcomes:</b>
 
 <ul>
-<li>Replaced traditional physical survey forms with dynamic online modules</li>
-<li>Integrated real-time REST APIs for structured data capture</li>
-<li>Built interactive analytics dashboards using Recharts</li>
-<li>Implemented automated Excel-based reporting system</li>
-</ul>
-
-<p><b>Business Outcome:</b></p>
-
-<ul>
-<li>25% reduction in physical paperwork (Phase 1)</li>
-<li>Phase 2 targeting 75% complete operational digitization</li>
+<li>Reduced manual paperwork by <b>25% in Phase 1</b></li>
+<li>Phase 2 rollout targeting <b>75% complete operational digitization</b></li>
 <li>Improved administrative visibility and reporting speed</li>
-<li>Enabled scalable digital governance infrastructure</li>
+<li>Established scalable digital governance infrastructure</li>
 </ul>
 
 <hr/>
 
-<h2>💍 Freelance Engineering</h2>
+<h2>📊 Dashboard Engineering</h2>
 
 <ul>
-<li>Developed secure REST APIs using Java</li>
+<li>Designed performance-optimized analytics dashboards</li>
+<li>Built structured data visualization systems</li>
+<li>Implemented real-time reporting pipelines</li>
+<li>Optimized React component architecture for large datasets</li>
+</ul>
+
+<hr/>
+
+<h2>💍 Freelance Engineering Experience</h2>
+
+<ul>
+<li>Developed secure backend APIs using <b>Java</b></li>
 <li>Integrated APIs into scalable frontend dashboards</li>
-<li>Built admin monitoring systems</li>
-<li>Delivered responsive, production-ready web applications</li>
+<li>Built administrative monitoring panels</li>
+<li>Delivered production-ready responsive applications</li>
 </ul>
 
 <hr/>
 
 <div align="center">
-<b>Transforming operational complexity into scalable digital systems.</b>
+<b>Transforming operational complexity into scalable, high-performance digital systems.</b>
 </div>
