@@ -1,135 +1,275 @@
-<div align="center">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Abhishek Sharma | Frontend Engineer</title>
 
-<h1 style="margin-bottom:0;">Abhishek Sharma</h1>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Frontend+Engineer;React.js+Specialist;Enterprise+Dashboard+Architect;Digital+Transformation+Builder" />
+<style>
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Inter', sans-serif;
+  scroll-behavior: smooth;
+}
 
-<br/>
+body {
+  background: linear-gradient(135deg, #0f172a, #111827);
+  color: #e5e7eb;
+}
 
-<p>
-📍 Ghaziabad, India &nbsp; | &nbsp;
-💼 Software Developer @ Pareekshn
-</p>
+nav {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  background: rgba(15, 23, 42, 0.9);
+  backdrop-filter: blur(10px);
+  padding: 15px 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 1000;
+}
 
-<a href="https://portfolio-ten-ashen-10.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+nav h2 {
+  color: #38bdf8;
+}
 
-<a href="https://www.linkedin.com/in/abbysharma2002/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+nav ul {
+  display: flex;
+  list-style: none;
+  gap: 30px;
+}
 
-</div>
+nav ul li a {
+  text-decoration: none;
+  color: #e5e7eb;
+  font-weight: 500;
+  transition: 0.3s;
+}
 
-<br/>
+nav ul li a:hover {
+  color: #38bdf8;
+}
 
-<hr/>
+section {
+  padding: 120px 80px;
+  min-height: 100vh;
+}
 
-<h2 align="center">⚡ Engineering Impact Overview</h2>
+.hero {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
 
-<div align="center">
+.hero h1 {
+  font-size: 48px;
+  margin-bottom: 15px;
+}
 
-<table>
-<tr>
-<td align="center"><h2>25%</h2><b>Paperwork Eliminated</b></td>
-<td align="center"><h2>75%</h2><b>Digitization Target</b></td>
-<td align="center"><h2>40%</h2><b>Frontend Performance Gain</b></td>
-<td align="center"><h2>60%</h2><b>Faster Deployments</b></td>
-<td align="center"><h2>1K+</h2><b>Users Served</b></td>
-</tr>
-</table>
+.hero h3 {
+  color: #38bdf8;
+  margin-bottom: 20px;
+}
 
-</div>
+.btn-group a {
+  display: inline-block;
+  margin-right: 15px;
+  padding: 10px 20px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: 0.3s;
+}
 
-<hr/>
+.btn-primary {
+  background: #38bdf8;
+  color: #0f172a;
+}
 
-<h2 align="center">🛠 Technology Stack</h2>
+.btn-primary:hover {
+  background: #0ea5e9;
+}
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=java,nodejs,express,mysql" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</div>
+.btn-outline {
+  border: 1px solid #38bdf8;
+  color: #38bdf8;
+}
 
-<hr/>
+.btn-outline:hover {
+  background: #38bdf8;
+  color: #0f172a;
+}
 
-<h2 align="center">📈 Development Dashboard</h2>
+.section-title {
+  font-size: 32px;
+  margin-bottom: 30px;
+  color: #38bdf8;
+}
 
-<div align="center">
+.card {
+  background: #1f2937;
+  padding: 25px;
+  border-radius: 15px;
+  margin-bottom: 25px;
+  transition: 0.3s;
+}
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhishek00a7&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek00a7&theme=tokyonight&hide_border=true" />
+.card:hover {
+  transform: translateY(-5px);
+  background: #273549;
+}
 
-<br/><br/>
+.metrics {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 20px;
+}
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek00a7&theme=tokyo-night&hide_border=true" />
+.metric-box {
+  background: #1f2937;
+  padding: 25px;
+  border-radius: 15px;
+  text-align: center;
+}
 
-</div>
+.metric-box h2 {
+  color: #38bdf8;
+  font-size: 28px;
+}
 
-<hr/>
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #0f172a;
+  color: #9ca3af;
+}
+</style>
+</head>
 
-<h2>🏭 BIADA Digital Survey Ecosystem</h2>
+<body>
 
-<p>
-The Bihar Industrial Area Development Authority relied heavily on physical survey forms to monitor industrial zones. 
-Data collection, aggregation, and reporting were manual, slow, and operationally inefficient. Administrative decisions depended on delayed documentation cycles.
-</p>
+<nav>
+  <h2>Abhishek</h2>
+  <ul>
+    <li><a href="#home">Home</a></li>
+    <li><a href="#impact">Impact</a></li>
+    <li><a href="#projects">Projects</a></li>
+    <li><a href="#skills">Skills</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+</nav>
 
-<p>
-To solve this, I designed and developed a fully digital survey ecosystem — a structured, scalable web platform that replaces paper workflows with real-time, API-driven execution.
-</p>
+<!-- HERO -->
+<section id="home" class="hero">
+  <h1>Abhishek Sharma</h1>
+  <h3>Frontend Engineer | React.js Specialist</h3>
+  <p>
+    Building scalable digital platforms that eliminate manual workflows and enable
+    enterprise-grade operational visibility.
+  </p>
+  <br/>
+  <div class="btn-group">
+    <a href="https://portfolio-ten-ashen-10.vercel.app/" class="btn-primary">View Portfolio</a>
+    <a href="https://www.linkedin.com/in/abbysharma2002/" class="btn-outline">LinkedIn</a>
+  </div>
+</section>
 
-<p>
-The system dynamically renders survey modules, validates structured inputs, integrates directly with backend services, and feeds data into interactive analytics dashboards built using modern JavaScript libraries.
-</p>
+<!-- IMPACT -->
+<section id="impact">
+  <h2 class="section-title">Engineering Impact</h2>
 
-<p>
-Administrators can now monitor industrial performance through visual dashboards instead of manual registers. Reports are generated automatically through structured Excel exports.
-</p>
+  <div class="metrics">
+    <div class="metric-box">
+      <h2>25%</h2>
+      <p>Paperwork Reduced (BIADA Phase 1)</p>
+    </div>
 
-<p>
-Phase 1 of deployment successfully reduced physical paperwork by <b>25%</b>. 
-The upcoming Phase 2 rollout is engineered to eliminate up to <b>75% of manual processes</b>, establishing a scalable digital governance foundation.
-</p>
+    <div class="metric-box">
+      <h2>75%</h2>
+      <p>Target Digital Transformation (Phase 2)</p>
+    </div>
 
-<hr/>
+    <div class="metric-box">
+      <h2>40%</h2>
+      <p>Frontend Performance Boost</p>
+    </div>
 
-<h2>📊 Enterprise Dashboard Architecture</h2>
+    <div class="metric-box">
+      <h2>60%</h2>
+      <p>Faster Deployment Cycle</p>
+    </div>
 
-<p>
-Beyond survey execution, I engineered interactive dashboard systems that translate raw operational data into actionable intelligence.
-</p>
+    <div class="metric-box">
+      <h2>1K+</h2>
+      <p>Active Users Served</p>
+    </div>
+  </div>
+</section>
 
-<p>
-These dashboards are optimized for performance, capable of handling large datasets while maintaining responsive rendering. 
-Comparative analytics, data segmentation, and real-time visibility allow decision-makers to operate with clarity and speed.
-</p>
+<!-- PROJECTS -->
+<section id="projects">
+  <h2 class="section-title">Projects</h2>
 
-<p>
-The architecture prioritizes modular React component design, reusable UI patterns, and API lifecycle management.
-</p>
+  <div class="card">
+    <h3>BIADA Digital Survey Ecosystem</h3>
+    <p>
+      Architected and developed a full digital survey platform replacing
+      paper-based industrial surveys for Bihar Industrial Area Development Authority.
+      The system integrates dynamic survey modules, real-time APIs, interactive dashboards,
+      and automated Excel reporting.
+      Phase 1 reduced paperwork by 25%, with Phase 2 targeting 75% digitization.
+    </p>
+  </div>
 
-<hr/>
+  <div class="card">
+    <h3>Enterprise Analytics Dashboards</h3>
+    <p>
+      Designed high-performance interactive dashboards using modern JavaScript libraries.
+      Enabled real-time data visualization and administrative decision-making
+      through optimized React component architecture.
+    </p>
+  </div>
 
-<h2>💍 Freelance Engineering — Wedding Management Platforms</h2>
+  <div class="card">
+    <h3>Wedding Management Platforms (Freelance)</h3>
+    <p>
+      Built secure backend APIs using Java and integrated them into
+      scalable frontend dashboards. Delivered production-ready,
+      responsive systems with structured admin monitoring panels.
+    </p>
+  </div>
+</section>
 
-<p>
-In addition to enterprise work, I independently delivered multiple production-grade wedding management platforms.
-</p>
+<!-- SKILLS -->
+<section id="skills">
+  <h2 class="section-title">Core Skills</h2>
 
-<p>
-I developed secure REST APIs using Java to handle event management, guest tracking, scheduling systems, and administrative workflows. 
-These services were integrated into responsive frontend dashboards, ensuring seamless interaction between backend logic and user interfaces.
-</p>
+  <div class="card">
+    <p><strong>Frontend:</strong> HTML, CSS, JavaScript, React.js, Next.js, Tailwind, Bootstrap</p>
+    <p><strong>Backend:</strong> Java, REST APIs, Node.js</p>
+    <p><strong>Database:</strong> MySQL</p>
+    <p><strong>Tools:</strong> Git, GitHub, VS Code</p>
+  </div>
+</section>
 
-<p>
-Each platform was designed with structured architecture, maintainable code patterns, and performance considerations to ensure long-term usability.
-</p>
+<!-- CONTACT -->
+<section id="contact">
+  <h2 class="section-title">Contact</h2>
 
-<hr/>
+  <div class="card">
+    <p>Email: shabhishek411@gmail.com</p>
+    <p>Location: Ghaziabad, India</p>
+  </div>
+</section>
 
-<div align="center">
-<b>Focused on building scalable systems that convert operational friction into measurable digital transformation.</b>
-</div>
+<footer>
+  © 2026 Abhishek Sharma | Frontend Engineer
+</footer>
+
+</body>
+</html>
